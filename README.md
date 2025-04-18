@@ -239,12 +239,3 @@ This document outlines the complete process of creating, launching, and supporti
 - Translation ready (`.pot` + `load_plugin_textdomain()`)
 
 ---
-
-## 📘 Bonus
-
-Need a project board or launch checklist? Let me know and I’ll create:
-- ✅ Trello/Notion planning template
-- ✅ Gantt chart (CSV or tool-ready)
-- ✅ README or GitHub release template
-
----
